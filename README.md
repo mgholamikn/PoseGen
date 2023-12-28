@@ -25,7 +25,7 @@ pip install -r requirements.txt
 ### Download pre-processed data and pre-trained models
 Please download the data and log zip files from: https://drive.google.com/drive/folders/1Pxvo1o_tKkptNVB-vAs-RnyCSwDpKJyP?usp=sharing 
 
-unzip logs.zip and data.zip in the main directory. There should be a data/ and logs/ in the main directory then. 
+unzip logs.zip and data.zip in the main directory. There should be a data/ and logs/ in the main directory.
 
 ### Training 
 To train PoseGen to generate data with SPIN as the baseline model:
