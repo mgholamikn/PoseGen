@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: pytorch-msssim
+Version: 0.1
+Summary: Differentiable multi-scale structural similarity (MS-SSIM) index
+Home-page: https://github.com/jorge-pessoa/pytorch-msssim
+Author: Jorge Pessoa
+Author-email: jpessoa.on@gmail.com
+License: UNKNOWN
+Keywords: pytorch,image-processing,deep-learning,ms-ssim
+Platform: UNKNOWN
+License-File: LICENSE.txt
+
+UNKNOWN
+
