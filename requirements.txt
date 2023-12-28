@@ -1,0 +1,15 @@
+ConfigArgParse>=1.5.3
+imageio>=2.13.2
+matplotlib
+numpy
+opencv-python>=4.5.4.60
+plotly>=5.4.0
+pytorch-msssim @ git+https://github.com/LemonATsu/pytorch-msssim.git@f77a2446d0688f88ab935ea2e0fdada7691b83b0
+scipy
+smplx>=0.1.28
+h5py
+tensorboard>=2.7.0
+tqdm>=4.62.3
+imageio-ffmpeg>=0.4.5
+moviepy>=1.0.3
+deepdish>=0.3.7
