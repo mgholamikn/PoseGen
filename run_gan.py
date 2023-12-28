@@ -1,5 +1,3 @@
-## how to use the code:
-# nohup python run_gan.py --nerf_args configs/surreal/surreal.txt --ckptpath logs/surreal_model/surreal.tar  --dataset surreal --entry hard  --runname render_3dpw_testset --white_bkgd  --render_res 512 512 > run_train_rendered_3dpw_testset.out 2>&1 &
 from __future__ import absolute_import
 from email.mime import image
 import os
