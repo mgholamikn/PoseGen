@@ -34,3 +34,15 @@ To train PoseGen to generate data with SPIN as the baseline model:
 python run_gan.py --nerf_args configs/surreal/surreal.txt --ckptpath logs/surreal_model/surreal.tar  --dataset surreal --entry hard  --runname render_3dpw_testset --white_bkgd  --render_res 512 512
 
 ```
+
+Citation:
+```
+@misc{gholami2023posegen,
+      title={PoseGen: Learning to Generate 3D Human Pose Dataset with NeRF}, 
+      author={Mohsen Gholami and Rabab Ward and Z. Jane Wang},
+      year={2023},
+      eprint={2312.14915},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
